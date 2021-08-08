@@ -19,14 +19,17 @@ Ohne Marker, dafür aber mit praktischer Suchfunktion.
 Die Bibel-App macht es dir einfach einen Vers oder deine Gedanken mit Leuten zu teilen - egal ob sie die App benutzen oder nicht.
 Fast genau so gut wie Flaschenpost. 🍾
 
-## Gemeinschaft / Kollaboration
-
+## Gemeinschaft
+Die Bibel zu interpretieren ist schwer.
+Nicht jeder denkt das selbe. Durch den Austausch dieser Meinungen kann man einen neuen Blick auf Dinge bekommen.
+Dieser Austausch - auch wenn sich am Anfang zwei Meinungen gegenüber stehen - ist unfassbar wichtig.
+Dieser Austausch sollte so einfach wie möglich gemacht werden. Diese Diskussion passiert in Echtzeit, genau so sollten es auch die Notizen.
 
 ## Offenheit
 "Wir arbeiten mit Hochdruck an einer Lösung des Problems."
 Solche Copy-und-Paste-Antworten sollte es nicht geben.
 
-Wir wissen wie frustrierend so etwas ist.
+Wir wissen wie frustrierend es ist, so eine Antwort zu bekommen.
 Wir wollen das besser machen. Wir wollen auf Feedback hören, Probleme lösen und im ständigen Austausch mit unserer Community sein.
 
 Wir leben von Vorschlägen und Kritik - ohne sie könnten wir unser Ziel nichtmal annähernd erreichen.
@@ -42,4 +45,7 @@ Unsere Bibel-App nutzt keine künstliche Intelligenz und nein, wir sind nicht "i
 Unsere Bibel-App nutzt so wenig externe Dienste wie möglich, unser Side-Business ist nicht deine Daten zu verkaufen. Unser Side-Business ist, *wir haben keins.*
 
 Wir stecken lieber mehr Zeit darein, dir eine bessere Erfahrung zu geben, als das wir unsere Nieren an Werbedienstleister verkaufen. 😜
+
+## *Deine* neue Generation der Bibelarbeit
+
 
