@@ -2,42 +2,54 @@
 
 Wir werben mit *einer neuen Generation der Bibelarbeit*, was hat es damit auf sich?
 
-> Mit my.awesomeBible beginnt eine neue Generation der Bibelarbeit. *Deine* neue Generation der Bibelarbeit.
+> Mit my.awesomeBible beginnt eine neue Generation der Bibelarbeit.
 
 Es gibt ein paar Punkte die wir aufgreifen und besser machen wollen als andere.
+
 Das ist unsere Vision der perfekten Bibelapp.
 ## Lesen
 Gottes Wort steht im Mittelpunkt. 
+
 Die Bibel-App soll dir nicht im weg stehen, sondern dir die Möglichkeit geben, dich auf den Text zu konzentrieren. Ohne irgendwelche Spielereien.
 
 ## Merken
-Genau so einfach, wie deinen gelben Marker rauszuholen und drauf los zu markieren. Nur ohne Marker. mark
+Genau so einfach, wie deinen gelben Marker rauszuholen und drauf los zu markieren. Nur ohne Marker.
+
 Die Bibel-App soll es dir einfach machen, Dinge die dir wichtig sind zu markieren, zu beschriften, und zu taggen.
+
 Ohne Marker, dafür aber mit praktischer Suchfunktion.
 
 ## Teilen
 Die Bibel-App macht es dir einfach einen Vers oder deine Gedanken mit Leuten zu teilen - egal ob sie die App benutzen oder nicht.
+
 Fast genau so gut wie Flaschenpost. 🍾
 
 ## Gemeinschaft
 Die Bibel zu interpretieren ist schwer.
+
 Nicht jeder denkt das selbe. Durch den Austausch dieser Meinungen kann man einen neuen Blick auf Dinge bekommen.
+
 Dieser Austausch - auch wenn sich am Anfang zwei Meinungen gegenüber stehen - ist unfassbar wichtig.
+
 Dieser Austausch sollte so einfach wie möglich gemacht werden. Diese Diskussion passiert in Echtzeit, genau so sollten es auch die Notizen.
 
 ## Offenheit
-"Wir arbeiten mit Hochdruck an einer Lösung des Problems."
+> "Wir arbeiten mit Hochdruck an einer Lösung des Problems."
+
 Solche Copy-und-Paste-Antworten sollte es nicht geben.
 
 Wir wissen wie frustrierend es ist, so eine Antwort zu bekommen.
+
 Wir wollen das besser machen. Wir wollen auf Feedback hören, Probleme lösen und im ständigen Austausch mit unserer Community sein.
 
 Wir leben von Vorschlägen und Kritik - ohne sie könnten wir unser Ziel nichtmal annähernd erreichen.
 
 ## Kein Mist
 Weniger ist mehr.
+
 Was macht Facebook in meiner Bibel-App?
-Was für einen Nutzen haben Werbe- und Performancemarketing Anbieter in einer Bibelapp verloren? Richtig: nichts.
+
+Was für einen Nutzen haben Werbe- und Performancemarketing Anbieter in einer Bibelapp verloren? Richtig: keinen.
 
 Eine Bibel-App sollte nicht Daten an zig Werbenetzwerke oder Dienste die nichts mit der App zu tun haben weitergeben.
 Unsere Bibel-App nutzt keine künstliche Intelligenz und nein, wir sind nicht "in der Cloud".
@@ -47,5 +59,6 @@ Unsere Bibel-App nutzt so wenig externe Dienste wie möglich, unser Side-Busines
 Wir stecken lieber mehr Zeit darein, dir eine bessere Erfahrung zu geben, als das wir unsere Nieren an Werbedienstleister verkaufen. 😜
 
 ## *Deine* neue Generation der Bibelarbeit
+Diese neue Generation ist nicht irgendeine neue Generation - *es ist deine*.
 
-
+Wir sind dabei eine Bibel-App zu bauen, 
