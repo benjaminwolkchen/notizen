@@ -8,7 +8,7 @@ Das ist unsere Vision der perfekten Bibel-App.
 ## Lesen
 Gottes Wort steht im Mittelpunkt. 
 
-Die Bibel-App soll dir nicht im weg stehen, sondern dir die Möglichkeit geben, dich auf den Text zu konzentrieren. Ohne irgendwelche Spielereien.
+Die Bibel-App soll dir nicht im Weg stehen, sondern dir die Möglichkeit geben, dich auf den Text zu konzentrieren. Ohne irgendwelche Spielereien.
 
 ## Merken
 Genau so einfach, wie deinen gelben Marker rauszuholen und drauf los zu markieren. Nur ohne Marker.
