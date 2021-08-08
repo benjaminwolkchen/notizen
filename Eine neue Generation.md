@@ -1,5 +1,3 @@
-### Disclaimer: Die in diesem Post erwähnten Bibel-Apps sind super! Ohne sie, würde my.awesomeBible warscheinlich gar nicht existieren - und definitiv nicht so aussehen, wie es heute der Fall ist.
-
 Wir werben mit *einer neuen Generation der Bibelarbeit*, was hat es damit auf sich?
 
 > Mit my.awesomeBible beginnt eine neue Generation der Bibelarbeit.
@@ -61,4 +59,5 @@ Wir stecken lieber mehr Zeit darein, dir eine bessere Erfahrung zu geben, als da
 ## *Deine* neue Generation der Bibelarbeit
 Diese neue Generation ist nicht irgendeine neue Generation - *es ist deine*.
 
-Wir sind dabei eine Bibel-App zu bauen, 
+Wir sind dabei eine Bibel-App zu bauen und wir brauchen Hilfe. **Wir brauchen deine Hilfe.**
+
