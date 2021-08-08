@@ -47,7 +47,7 @@ Weniger ist mehr.
 
 Was macht Facebook in meiner Bibel-App?
 
-Was für einen Nutzen haben Werbe- und Performancemarketing Anbieter in einer Bibelapp verloren? Richtig: keinen.
+Was für einen Nutzen haben Werbe- und Performancemarketing Anbieter in einer Bibelapp? Richtig: keinen.
 
 Eine Bibel-App sollte nicht Daten an zig Werbenetzwerke oder Dienste die nichts mit der App zu tun haben weitergeben.
 Unsere Bibel-App nutzt keine künstliche Intelligenz und nein, wir sind nicht "in der Cloud".
@@ -59,5 +59,5 @@ Wir stecken lieber mehr Zeit darein, dir eine bessere Erfahrung zu geben, als da
 ## *Deine* neue Generation der Bibelarbeit
 Diese neue Generation ist nicht irgendeine neue Generation - *es ist deine*.
 
-Wir sind dabei eine Bibel-App zu bauen und wir brauchen Hilfe. **Wir brauchen deine Hilfe.**
+Wir sind dabei eine Bibel-App zu bauen und wir brauchen Hilfe. 
 
