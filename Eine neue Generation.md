@@ -57,7 +57,8 @@ Unsere Bibel-App nutzt so wenig externe Dienste wie möglich, unser Side-Busines
 Wir stecken lieber mehr Zeit darein, dir eine bessere Erfahrung zu geben, als das wir unsere Nieren an Werbedienstleister verkaufen. 😜
 
 ## *Deine* neue Generation der Bibelarbeit
-Diese neue Generation ist nicht irgendeine neue Generation - *es ist deine*.
+Diese neue Generation ist nicht irgendeine neue Generation - *sie ist deine*.
 
-Wir sind dabei eine Bibel-App zu bauen und wir brauchen Hilfe. 
+Wir haben eine Vision - und wir sind dir unglaublich dankbar, wenn du an uns glaubst - wir wollen my.awesomeBible wahr machen. Deine geniale Bibel.
 
+*Eine neue Generation der Bibelarbeit.*
