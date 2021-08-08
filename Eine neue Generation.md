@@ -61,4 +61,4 @@ Diese neue Generation ist nicht irgendeine neue Generation - *sie ist deine*.
 
 Wir haben eine Vision - und wir sind dir unglaublich dankbar, wenn du an uns glaubst - wir wollen my.awesomeBible wahr machen. Deine geniale Bibel.
 
-*Eine neue Generation der Bibelarbeit.*
+***Eine neue Generation der Bibelarbeit.***
