@@ -4,7 +4,7 @@ Wir werben mit *einer neuen Generation der Bibelarbeit*, was hat es damit auf si
 
 Es gibt ein paar Punkte die wir aufgreifen und besser machen wollen als andere.
 
-Das ist unsere Vision der perfekten Bibelapp.
+Das ist unsere Vision der perfekten Bibel-App.
 ## Lesen
 Gottes Wort steht im Mittelpunkt. 
 
